@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://duwucaru.github.io/sitemap/sitemap_index.duwucaru
+Sitemap: https://duwucaru.github.io/sjU/sitemap_index.duwucaru
+Sitemap: https://duwucaru.github.io/BbJ/sitemap_index.duwucaru
+Sitemap: https://duwucaru.github.io/NEF/sitemap_index.duwucaru
+Sitemap: https://duwucaru.github.io/HuX/sitemap_index.duwucaru
+Sitemap: https://duwucaru.github.io/Rqg/sitemap_index.duwucaru
+Sitemap: https://duwucaru.github.io/oxf/sitemap_index.duwucaru
+Sitemap: https://duwucaru.github.io/DIS/sitemap_index.duwucaru
+Sitemap: https://duwucaru.github.io/GCx/sitemap_index.duwucaru
+Sitemap: https://duwucaru.github.io/KMO/sitemap_index.duwucaru
+Sitemap: https://duwucaru.github.io/iBO/sitemap_index.duwucaru
+Sitemap: https://duwucaru.github.io/yeX/sitemap_index.duwucaru
+Sitemap: https://duwucaru.github.io/ZAd/sitemap_index.duwucaru
+Sitemap: https://duwucaru.github.io/DkH/sitemap_index.duwucaru
+Sitemap: https://duwucaru.github.io/ucB/sitemap_index.duwucaru
+Sitemap: https://duwucaru.github.io/Opm/sitemap_index.duwucaru
+Sitemap: https://duwucaru.github.io/tcH/sitemap_index.duwucaru
+Sitemap: https://duwucaru.github.io/PNp/sitemap_index.duwucaru
+Sitemap: https://duwucaru.github.io/CgI/sitemap_index.duwucaru
+Sitemap: https://duwucaru.github.io/uGw/sitemap_index.duwucaru
+Sitemap: https://duwucaru.github.io/rum/sitemap_index.duwucaru
